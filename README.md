@@ -1,2 +1,1 @@
 # The_GitHub_History_of_the_Scala_Language
-# The_GitHub_History_of_the_Scala_Language
